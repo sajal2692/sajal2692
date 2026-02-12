@@ -15,7 +15,7 @@
 
 ### What I'm Working On 💡
 
-**AI Engineer at [Liminal](https://www.liminal.sg/)**, a Temasek-backed venture studio in Singapore, building verticalized AI Agents. Currently focused on agents for financing energy transition projects at [Lana](https://www.lana.eco/).
+**AI Engineer at [Liminal](https://www.liminal.build/)**, a Temasek-backed venture studio in Singapore, building verticalized AI Agents.
 
 ### Professional Highlights 🌟
 
