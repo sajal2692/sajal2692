@@ -1,37 +1,46 @@
 # 👋 Hello, I'm Sajal!
 
-## 🚀 AI/ML Engineer focusing on applied AI
+## 🚀 AI Engineer building agentic systems
 
-📍 **Singapore**  
-📧 **Email:** [contact@sajalsharma.com](mailto:contact@sajalsharma.com)  
-🔗 **LinkedIn:** [sajals](https://linkedin.com/in/sajals)  
-👨‍💻 **GitHub:** [sajal2692](https://github.com/sajal2692)
+📍 **Singapore**
+📧 **Email:** [contact@sajalsharma.com](mailto:contact@sajalsharma.com)
+🔗 **LinkedIn:** [sajals](https://linkedin.com/in/sajals)
+🌐 **Website:** [sajalsharma.com](https://sajalsharma.com)
 
+---
 
 ### About Me 🌐
-Blending over 7 years of experience in ML, NLP, and Software Engineering, I transform data and language into impactful solutions and experiences.
 
+9+ years in Software Engineering, specializing in AI, NLP, and ML — spanning both consulting and core product engineering. Passionate about implementing cutting-edge AI engineering research to solve real-world problems, and dedicated to sharing practical frameworks and insights on agentic systems.
+
+### What I'm Working On 💡
+
+**AI Engineer at [Liminal](https://www.liminal.sg/)**, a Temasek-backed venture studio in Singapore, building verticalized AI Agents. Currently focused on agents for financing energy transition projects at [Lana](https://www.lana.eco/).
 
 ### Professional Highlights 🌟
-- **AI Engineer** - Menyala, Singapore (2024 - Present)
-- **Lead AI Engineer** - OneByZero, Singapore (2023 - 2024)
-- **Senior AI Engineer** - Splore, Singapore (2023)
-- **ML Engineer - NLP** - Unscrambl, India (2017 - 2022)
 
+- **AI Engineer** — Liminal (fka Menyala), Singapore (2024 - Present)
+- **Lead AI Engineer** — OneByZero, Singapore (2023 - 2024)
+- **Senior AI Engineer** — Splore, Singapore (2023)
+- **ML Engineer - NLP** — Unscrambl, India (2017 - 2022)
 
-### Tech Toolbox 🛠️
-- **Languages:** Python, SQL, JavaScript, Ruby
-- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
-- **Tools:** AWS, GCP, Docker, Git
-- **Specialties:** LLMs, Generative AI, NLP, Search
+### Teaching 🎓
+
+**O'Reilly Instructor** — Courses & live training on AI agents and RAG systems:
+
+- [Building AI Agents with LangGraph](https://learning.oreilly.com/course/building-ai-agents/0642572077884/)
+- [Agentic RAG with LangGraph](https://learning.oreilly.com/live-events/agentic-rag-with-langgraph/0642572176174/)
+- [Getting Started with Claude Agent SDK](https://learning.oreilly.com/live-events/getting-started-with-claude-agent-sdk/0642572273255/0642572273248/)
+
+**Guest Lecturer** — Yale University (2025, 2026), on agentic systems
+
+**Udacity Mentor** (2017 - 2023) — Reviewed 1,000+ student projects
 
 ### Education 🎓
+
 - **Masters in IT**, The University of Melbourne
 - **Bachelors in Computer Applications**, Bhartiya Vidyapeeth University
 
-### Certifications 📜
-- **Coursera:** Deep Learning, Machine Learning, Mathematics for ML Specializations
-- **Udacity:** NLP, ML, React Nanodegrees
+---
 
-🔗 Let's ideate, innovate, and build cool expericnes with AI. Reach out for collaborations or simply to chat!
-
+🔗 Learn more at [sajalsharma.com](https://sajalsharma.com) — always happy to chat about AI agents, RAG, or anything at the intersection of AI and product!
