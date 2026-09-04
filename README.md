@@ -2,9 +2,9 @@
 
 **I build AI systems and teach engineers how.**
 
-I'm an AI engineer based in Vancouver, British Columbia. I work where AI engineering meets the way people think, create, and work: turning new capabilities into products worth using. I write about the technical choices, product questions, and lessons that emerge along the way.
+I'm an AI engineer based in Vancouver, British Columbia. I work where AI engineering meets the way people think, create, and work: turning new capabilities into products worth using.
 
-[Website](https://sajalsharma.com/) · [Writing](https://sajalsharma.com/posts/) · [Courses](https://sajalsharma.com/teaching/) · [LinkedIn](https://linkedin.com/in/sajals)
+[Website](https://sajalsharma.com/) · [Courses](https://sajalsharma.com/teaching/) · [LinkedIn](https://linkedin.com/in/sajals)
 
 ## Engineering
 
@@ -29,12 +29,6 @@ I create and teach live and on-demand courses through **O'Reilly**, including:
 The [full course catalogue and upcoming sessions](https://sajalsharma.com/teaching/) also cover sandboxing, agent fleets, and harness engineering for browser agents and computer use.
 
 I've guest lectured at **Yale University** (2025, 2026) and mentored learners through **Udacity** and the **University of Melbourne**.
-
-## Selected writing
-
-- [Sandboxing an AI Agent](https://sajalsharma.com/posts/sandboxing-an-ai-agent/)
-- [Agents Have Outgrown Workflows](https://sajalsharma.com/posts/agentic-workflows-to-agent-harnesses/)
-- [Working Effectively with AI Coding Tools like Claude Code](https://sajalsharma.com/posts/effective-ai-coding/)
 
 ## Get in touch
 
